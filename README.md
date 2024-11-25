@@ -21,7 +21,6 @@
 </div>
 <div align="center" style="display: flex; align-items: center;">
   <h3>🖥 OS that I want to use/Using</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="WINDOWS" alt="WINDOWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="ARCH LINUX" alt="ARCH LINUX" width="40" height="40"/>
 </div>
 
