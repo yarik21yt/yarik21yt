@@ -20,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PYCHARM" alt="PYCHARM" width="40" height="40"/>
 </div>
 <div align="center" style="display: flex; align-items: center;">
-  <h3>🖥 OS that I want to use/Using</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="ARCH LINUX" alt="ARCH LINUX" width="40" height="40"/>
+  <h3>🖥 OS that I using now</h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" title="LINUX MINT" alt="LINUX MINT" width="40" height="40"/>
 </div>
 
 
