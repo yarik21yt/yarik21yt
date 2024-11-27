@@ -20,16 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PYCHARM" alt="PYCHARM" width="40" height="40"/>
 </div>
 <div align="center" style="display: flex; align-items: center;">
-  <h3>🖥 OS that I using now</h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" title="LINUX MINT" alt="LINUX MINT" width="40" height="40"/>
+  <h3>🖥 OS that I using</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="WINDOWS" alt="WINDOWS" width="40" height="40"/>
+
 </div>
-
-
-
-![](https://dcbadge.limes.pink/api/shield/875294787975139348)
-
-
 <!---
-yarik21yt/yarik21yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jaroslaw21012012/jaroslaw21012012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
