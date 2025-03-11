@@ -21,7 +21,7 @@
 </div>
 <div align="center" style="display: flex; align-items: center;">
   <h3>🖥 OS that I using</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="WINDOWS" alt="WINDOWS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" title="Linux Mint" alt="LINUX MINT" width="40" height="40"/>
 
 </div>
 <!---
